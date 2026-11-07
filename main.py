@@ -11,7 +11,7 @@ import telebot
 from io import BytesIO
 
 # --- CẤU HÌNH ---
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN" # <--- THAY TOKEN CỦA BẠN VÀO ĐÂY
+BOT_TOKEN = "9014150856:AAG-eDe-oCKsxXLFu0iGlrHriWUDVyl3m7Q" # <--- THAY TOKEN CỦA BẠN VÀO ĐÂY
 GARENA_URL = "https://m.garena.vn/arenaofvalor/" 
 # URL thực tế có thể thay đổi tùy server (VN, TH, ID, PH...). 
 # Ở đây dùng URL mẫu để code chạy mượt mà.
